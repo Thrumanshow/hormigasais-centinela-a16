@@ -1,0 +1,8 @@
+.env
+guardia_dia.log
+guardia_nocturna.log
+centinela_fondo.out
+*.lbh.json
+*.pyc
+__pycache__/
+CV_*
