@@ -1,0 +1,12 @@
+{
+  "file": "guardia_dia.log",
+  "sha256": "522f70a6aa7e0e60df40200d2c044f36290dd1ab2357bd4bce40303912cfb60a",
+  "hmac_sha256": "bb80dc45c8a7b8d9a43a95abf1bf68d2abc3bada26a710b87ea855cab6dcea2b",
+  "size": 2171,
+  "issuer": "HormigasAIS",
+  "node": "A16",
+  "timestamp": 1788596765,
+  "protocol": "LBH-v2.0",
+  "parent_commit": "1d897b3",
+  "temp_umbral": 39.0
+}
