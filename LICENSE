@@ -1,0 +1,42 @@
+HormigasAIS Source-Available License (Proprietary)
+Versión 1.0 — hormigasais-centinela-a16
+
+Copyright (c) 2026 Cristhiam Leonardo Hernández Quiñonez (CLHQ)
+Todos los derechos reservados.
+
+1. Naturaleza de esta licencia
+
+Esta no es una licencia de código abierto ni una Business Source License.
+Es una licencia propietaria de código fuente visible ("source-available"):
+el código puede leerse, estudiarse y auditarse públicamente, pero su uso,
+copia, modificación y redistribución requieren autorización explícita del
+Licenciante.
+
+2. Lo que SÍ está permitido sin autorización adicional
+
+  - Leer y estudiar el código fuente con fines de evaluación o auditoría.
+  - Hacer fork privado únicamente para revisión personal, sin distribuir
+    ni desplegar en producción.
+
+3. Lo que requiere autorización explícita de CLHQ
+
+  - Uso en producción, propio o de terceros.
+  - Redistribución, en forma original o modificada.
+  - Creación de obras derivadas destinadas a distribución o uso público.
+  - Cualquier uso comercial.
+
+4. Vigencia
+
+Esta licencia no tiene fecha de conversión a una licencia de código
+abierto. El Licenciante (CLHQ) retiene control indefinido sobre los
+términos de uso de hormigasais-centinela-a16, y puede otorgar licencias adicionales
+o cambiar estos términos para versiones futuras a su propio criterio.
+
+5. Sin garantía
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE
+COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+Para solicitar una licencia de uso, contactar a CLHQ a través de
+github.com/Thrumanshow.
